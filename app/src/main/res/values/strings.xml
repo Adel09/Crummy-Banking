@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Crummy Banking</string>
+
+    <string-array name="banks_array">
+        <item>FirstBank</item>
+        <item>Fidelity Bank</item>
+        <item>Zenith Bank</item>
+        <item>UBA</item>
+        <item>Wema Bank</item>
+    </string-array>
+
+
+</resources>

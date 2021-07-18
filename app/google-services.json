@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250131064295",
+    "project_id": "crummy-banking",
+    "storage_bucket": "crummy-banking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250131064295:android:b3222a8a261b9aab280942",
+        "android_client_info": {
+          "package_name": "com.crumlabs.crummybanking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250131064295-bd4v44koo0qo8tpfcafmb2hn2tmtab89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjlHqsDLXMXze65ouIIgJ5SFE-6K6dTuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250131064295-bd4v44koo0qo8tpfcafmb2hn2tmtab89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
